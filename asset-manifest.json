@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/DilipKumarRaushan/Crypto-Trading-App/static/js/main.b3cefb4c.js",
+    "static/media/btc.png": "/DilipKumarRaushan/Crypto-Trading-App/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/dilip.jpg": "/DilipKumarRaushan/Crypto-Trading-App/static/media/dilip.f3ff6d933fa49ad0a5e4.jpg",
+    "index.html": "/DilipKumarRaushan/Crypto-Trading-App/index.html",
+    "main.b3cefb4c.js.map": "/DilipKumarRaushan/Crypto-Trading-App/static/js/main.b3cefb4c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b3cefb4c.js"
+  ]
+}
